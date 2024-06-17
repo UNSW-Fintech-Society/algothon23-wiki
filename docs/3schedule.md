@@ -11,7 +11,7 @@
 
 ### Competition: Preliminaries
 
-19th June, 5:00pm - Workshop 2 / Launch
+19th June, 6:00pm - Workshop 2 / Launch
 
 29th June, 9:00am - Submissions for leaderboard update close
 
