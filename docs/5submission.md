@@ -4,12 +4,34 @@
 
 Stay tuned for updates on how to submit
 
-<!-- [//]: # "You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8)."
+<!-- [//]: # "You can submit your GitHub repo [here](https://forms.gle/GiTtibt3qV4MxWPM8)." -->
 
 **Leaderboard**
 
-[//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
+<!-- [//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
+Submissions Closed -->
+
+[//]: # "Submit [here](https://algothon.au/submission)"
+
+- Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
+
+- Please ensure there is a requirements.txt file.
+
+- Please ensure the entry file of your work is named main.py (and not teamName.py as was the default on the starter code).
+
+- Multiple submissions allowed.
+
+Submissions require Discord verification of your group registration.
+
+Due July 2 11:59PM
+
+---
+
+<!-- **General Round**
+
 Submissions Closed
+[//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
+
 [//]: # (Submit [here]&#40;https://algothon.au/submission&#41;)
 
 - Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
@@ -22,32 +44,11 @@ Submissions Closed
 
 Submissions require Discord verification of your group registration.
 
-Due August 10 9AM
+Due August **28** 9AM -->
 
 ---
 
-**General Round**
-
-Submissions Closed
-[//]: # "Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfW38uanZzTMOvfHPKQQDbyohS3oBlVYUAsYlO5cU0LBUsS_Q/viewform?usp=sf_link)"
-
-[//]: # (Submit [here]&#40;https://algothon.au/submission&#41;)
-
-- Please submit a .zip file of your repository. This .zip file should not be nested (meaning that it should contain your files when unpacked, and not a folder that then contains your files).
-
-- Please ensure there is a requirements.txt file if required.
-
-- Please ensure the entry file of your work is named main.py (and not teamName.py as was the default on the starter code).
-
-- Multiple submissions allowed.
-
-Submissions require Discord verification of your group registration.
-
-Due August **28** 9AM
-
----
-
-**Final**
+<!-- **Final**
 
 Submit [here](https://algothon.au/submission)
 
@@ -61,7 +62,7 @@ Submit [here](https://algothon.au/submission)
 
 Submissions require Discord verification of your group registration.
 
-Due September **4th** 9AM -->
+Due September **4th** 9AM --> -->
 
 ---
 
@@ -93,4 +94,4 @@ If your team is successful in progressing to the final round, you will be provid
 
 Note that final round presentations will consist of a _5 minute presentation_, alongside _4 minutes_ of Q&A.
 
-Final submissions will be also quantitatively assessed, with test results provided to judges prior to team presentation. -->
+Final submissions will be also quantitatively assessed, with test results provided to judges prior to team presentation.
