@@ -23,4 +23,4 @@
 
 **26th** July - Finalists' revised code and presentations due
 
-5th August, 6:00pm - Finals (held in SIG office)
+8th August, 12:00pm - Finals (held in SIG office)
